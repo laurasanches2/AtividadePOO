@@ -8,6 +8,6 @@ public class Caminhao : Veiculo
 
     public override void Acelerar()
     {
-        Console.WriteLine($"{Modelo}  está acelerando devagar carregando peso!");
+        Console.WriteLine($"{Modelo} está acelerando devagar carregando peso!");
     }
 }
