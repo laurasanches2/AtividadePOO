@@ -8,6 +8,7 @@ public class Carro : Veiculo
 
     public override void Acelerar()
     {
+
         Console.WriteLine($"{Modelo} acelerou rápido pelas ruas!");
     }
 }

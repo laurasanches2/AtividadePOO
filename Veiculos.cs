@@ -18,6 +18,6 @@ public abstract class Veiculo
 
     public virtual void Acelerar()
     {
-        Console.WriteLine($"{Modelo} está Acelerado !");
+        Console.WriteLine($"{Modelo} está acelerado!");
     }
 }
